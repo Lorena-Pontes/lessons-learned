@@ -15,7 +15,7 @@ body {
 .lado-direito {
     -ms-wrap-flow: both;
     -ms-wrap-margin: 10px;
-    position: relative; ;
+    position: relative;
     right: 0;
     top: -65px;
     float: right;
